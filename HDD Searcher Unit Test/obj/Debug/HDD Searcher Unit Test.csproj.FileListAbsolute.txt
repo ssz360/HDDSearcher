@@ -1,0 +1,32 @@
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\HDD Searcher Unit Test.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\HDD Searcher Unit Test.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\obj\Debug\HDD Searcher Unit Test.csprojResolveAssemblyReference.cache
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\obj\Debug\HDD Searcher Unit Test.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\obj\Debug\HDD Searcher Unit Test.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\HDD Searcher.exe
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\EntityFramework.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\MFT.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\EntityFramework.BulkInsert.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\EntityFramework.MappingAPI.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\HDD Searcher.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\EntityFramework.xml
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\MFT.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\EntityFramework.BulkInsert.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\EntityFramework.MappingAPI.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher Unit Test\bin\Debug\HDD Searcher Unit Test.dll.config
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\HDD Searcher Unit Test.dll.config
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\HDD Searcher Unit Test.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\HDD Searcher Unit Test.pdb
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\HDD Searcher.exe
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\EntityFramework.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\MFT.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\EntityFramework.BulkInsert.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\EntityFramework.MappingAPI.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\HDD Searcher.pdb
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\EntityFramework.xml
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\MFT.pdb
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\EntityFramework.BulkInsert.pdb
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\bin\Debug\EntityFramework.MappingAPI.pdb
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\obj\Debug\HDD Searcher Unit Test.csprojResolveAssemblyReference.cache
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\obj\Debug\HDD Searcher Unit Test.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher Unit Test\obj\Debug\HDD Searcher Unit Test.pdb

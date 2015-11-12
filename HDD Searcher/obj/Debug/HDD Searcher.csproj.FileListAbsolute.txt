@@ -1,0 +1,81 @@
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\HDD Searcher.exe.config
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\HDD Searcher.exe
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\HDD Searcher.pdb
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher.csprojResolveAssemblyReference.cache
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\App.g.cs
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher_MarkupCompile.cache
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher.g.resources
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\HDD_Searcher.Properties.Resources.resources
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher.csproj.GenerateResource.Cache
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher.exe
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher.pdb
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\MFT.dll
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\MFT.pdb
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.dll
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.SqlServer.dll
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.xml
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.SqlServer.xml
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.BulkInsert.dll
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.MappingAPI.dll
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.BulkInsert.pdb
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.MappingAPI.pdb
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\UI\MainWindow.baml
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\UI\winLog.baml
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\UI\winSettings.baml
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\UI\MainWindow.g.cs
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\UI\winLog.g.cs
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\HDD Searcher\obj\Debug\UI\winSettings.g.cs
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\HDD Searcher.exe.config
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher.exe
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\HDD Searcher.exe
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\HDD Searcher.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.BulkInsert.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.MappingAPI.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.SqlServer.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\MFT.dll
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\MFT.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.xml
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.BulkInsert.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.MappingAPI.pdb
+E:\projects\Contest\HDD Searcher\HDD Searcher\bin\Debug\EntityFramework.SqlServer.xml
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher.csprojResolveAssemblyReference.cache
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\UI\MainWindow.baml
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\UI\winLog.baml
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\UI\winSettings.baml
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\UI\MainWindow.g.cs
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\UI\winLog.g.cs
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\UI\winSettings.g.cs
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\App.g.cs
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher_MarkupCompile.cache
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher.g.resources
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\HDD_Searcher.Properties.Resources.resources
+E:\projects\Contest\HDD Searcher\HDD Searcher\obj\Debug\HDD Searcher.csproj.GenerateResource.Cache
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\HDD Searcher.exe.config
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\HDD Searcher.exe
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\HDD Searcher.pdb
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\HDD Searcher.exe
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\HDD Searcher.pdb
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\EntityFramework.BulkInsert.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\EntityFramework.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\EntityFramework.MappingAPI.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\EntityFramework.SqlServer.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\MFT.dll
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\MFT.pdb
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\EntityFramework.xml
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\EntityFramework.BulkInsert.pdb
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\EntityFramework.MappingAPI.pdb
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\bin\Debug\EntityFramework.SqlServer.xml
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\HDD Searcher.csprojResolveAssemblyReference.cache
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\UI\MainWindow.baml
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\UI\winLog.baml
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\UI\winSettings.baml
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\UI\MainWindow.g.cs
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\UI\winLog.g.cs
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\UI\winSettings.g.cs
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\App.g.cs
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\HDD Searcher_MarkupCompile.cache
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\HDD Searcher.g.resources
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\HDD_Searcher.Properties.Resources.resources
+E:\projects\Contest\HDD Searcher - Copy\HDD Searcher\obj\Debug\HDD Searcher.csproj.GenerateResource.Cache

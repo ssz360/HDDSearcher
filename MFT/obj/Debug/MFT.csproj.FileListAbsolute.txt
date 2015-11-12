@@ -1,0 +1,9 @@
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\MFT\bin\Debug\MFT.dll
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\MFT\bin\Debug\MFT.pdb
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\MFT\obj\Debug\MFT.dll
+D:\private apps data\Vitual Stadio\Visual Studio 2013\Projects\HDD Searcher\MFT\obj\Debug\MFT.pdb
+E:\projects\Contest\HDD Searcher - Copy\MFT\bin\Debug\MFT.dll
+E:\projects\Contest\HDD Searcher - Copy\MFT\bin\Debug\MFT.pdb
+E:\projects\Contest\HDD Searcher - Copy\MFT\obj\Debug\MFT.csprojResolveAssemblyReference.cache
+E:\projects\Contest\HDD Searcher - Copy\MFT\obj\Debug\MFT.dll
+E:\projects\Contest\HDD Searcher - Copy\MFT\obj\Debug\MFT.pdb
